@@ -1,0 +1,1 @@
+some algorithm questions i have solved.
